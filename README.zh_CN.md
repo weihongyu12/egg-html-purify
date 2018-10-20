@@ -34,6 +34,15 @@ exports.htmlPurify = {
 };
 ```
 
+## 使用
+
+```javascript
+this.app.purify(input);
+
+// or use in context
+this.ctx.purify(input);
+```
+
 ## 提问交流
 
 请到 [egg issues](https://github.com/weihongyu12/egg-html-purify/issues) 异步交流。

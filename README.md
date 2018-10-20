@@ -42,7 +42,12 @@ exports.htmlPurify = {
 
 ## Example
 
-<!-- example here -->
+```javascript
+this.app.purify(input);
+
+// or use in context
+this.ctx.purify(input);
+```
 
 ## Questions & Suggestions
 
