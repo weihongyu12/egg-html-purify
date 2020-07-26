@@ -39,13 +39,13 @@
     "autod": "autod"
   },
   "files": [
-    "app.js",
     "app",
     "config",
+    "app.js",
     "lib"
   ],
   "ci": {
-    "version": "8, 10"
+    "version": "8, 10, 12, 14"
   },
   "repository": {
     "type": "git",
